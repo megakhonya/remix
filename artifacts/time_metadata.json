@@ -1,13 +1,13 @@
 {
 	"compiler": {
-		"version": "0.8.20+commit.a1b79de6"
+		"version": "0.8.24+commit.e11b9ed9"
 	},
 	"language": "Solidity",
 	"output": {
 		"abi": [
 			{
 				"inputs": [],
-				"name": "Oneminute",
+				"name": "endat",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -20,46 +20,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "Thirtysecond",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "day",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "hour",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "second",
+				"name": "startat",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -99,11 +60,11 @@
 	},
 	"sources": {
 		"time.sol": {
-			"keccak256": "0xe1603786df2cd2428e712bbbf7520b1900f15b3b732df8c0b9add05a107d51f5",
+			"keccak256": "0x9213c15218b31614fcb58b6911016b4aa0fc44ff520fb6e68d238ac68f5381e4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d000e4d73e22583dc2ca509f5bc1ddcfe99b7ba6fd0979c9f526ac7a37f689ab",
-				"dweb:/ipfs/QmTiucSMJuVnjGSGxpqe5AKRmhUG5MwrNKfR62AWBy4R7V"
+				"bzz-raw://1db80a304e10a3861cd4c358614388ae9a8cee36b5edeac5b4a9fd61cf0d9e28",
+				"dweb:/ipfs/QmRdiSccmBjPiBwapCtWT2mbDTZE98Y4iPCbVSPtR2rJZG"
 			]
 		}
 	},
